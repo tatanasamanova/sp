@@ -1,6 +1,6 @@
       import java.util.Scanner;
     public class Main {
-        private static int  multiply(int a, int b)
+        public static int  multiply(int a, int b)
         {
             if (a == 0 || b == 0)
                 return 0;
